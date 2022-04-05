@@ -1,2 +1,2 @@
-#Memory game
-https://nadyasamosiuk.github.io/memory-game/
+# Memory game
+[Demo](https://nadyasamosiuk.github.io/memory-game/)
