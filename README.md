@@ -1,2 +1,2 @@
-«`{Memory}<пробел>{game}«`
+#Memory game
 https://nadyasamosiuk.github.io/memory-game/
